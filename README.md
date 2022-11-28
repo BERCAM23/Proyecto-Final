@@ -7,6 +7,7 @@ En este repositorio encontrará los siguientes documentos:
 2- Ejercicio prediccion de centavos y salarios DataScience: En este archivo que igualmente es de colab es sobre la prediccion de precios conforme al tiempo, teniendo la capacidad de poner cualquier año futuro y tener una predicción aproximada, igualmente está la predicción de los salarios de data science, donde fue nuestro primer acercamiento a predicciones de regresión lineal con ejercicios propios.
 3- MLE: En este archivo de colab es un desarrollo de como tener el estimador MLE sobre una muestra de datos random con tendencia exponencial. Con este trabajo practicamos la generacion de modelos exponenciales y su estimadore de MLE.
 4- README: lo que estas leyendo en este momento, este archivo basicamente es para dar contexto al proyecto y aclarar dudas.
+5- ds_salaries: Es la base de datos en foramto csv
 
 (1) ¿Cuál fue el motivo de elegir tu base de datos?
   Elegimos esta base de datos ya que como estamos estudiante BI es una industria de la Sciencia de Datos, y tener el registro de todos los salarios de cuanto gana cada puesto, en dolares, su experiencia, etc, nos sirvió mucho para tener una idea de los puestos mejores pagados, por ejemplo. 
